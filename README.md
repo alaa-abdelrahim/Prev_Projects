@@ -1,10 +1,12 @@
-# Prev_Projects
+# My Projects
 As a web developer, there are multi projects, apps, and tasks you need to develop daily. Here some of my previous projects in web development.
 
-- **[Medica](#Medica):** E-commerce Web Application.
-- **[Penzhydromash](#Penzhydromash):** Company Portfolio (Home page full of animation).
-- **[Plants Care](#Plants-Care):**  One-page bilingual (Arabic and English) website.
-- **[Task Manager](#Task-Manager):** Simple individual task manager.
+- Front - End Web Applications
+  - **[Medica](#Medica):** E-commerce Web Application.
+  - **[Penzhydromash](#Penzhydromash):** Company Portfolio (Home page full of animation).
+  - **[Plants Care](#Plants-Care):**  One-page bilingual (Arabic and English) website.
+- Cross - Platforms Applications
+  - **[Projects Controller](#projects-controller):** Simple Offline Desktop Application using `Electron` framework.
 
 ## <a name="Medica" target="_self">Medica</a>
 
@@ -88,28 +90,36 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
   
    
    
-## <a name="Task-Manager" target="_self">Task Manager</a>
+## <a name="projects-controller" target="_self">Projects Controller</a>
 
-[![Image from the Task Manager interface](https://www.up-00.com/i/00185/gu7grq8guva3.png)](https://codepen.io/Alaa_S_AbdElrahim/full/NWqYVqZ)
+[![Image from the Project controller interface](https://alaa-abdelrahim.github.io/projects-controller/doc-images/tasks.png)](https://alaa-abdelrahim.github.io/projects-controller)
 
-- **Description:** Simple individual task manager using Local storage, drag and drop APIs.
+- **Description:** Simple yet effective `Projects Controller` Offline Desktop Application using `Electron` framework.
 
 - **Languages and Tools:** 
   - **web Languages:** HTML5, CSS3, and JavaScript.
+  - **Framework:** Electron.
+  - **Libraries:** JsStore.
 
-- **Project Links:** [CodePen](https://codepen.io/Alaa_S_AbdElrahim/pen/NWqYVqZ) | [Live Demo](https://codepen.io/Alaa_S_AbdElrahim/full/NWqYVqZ).
+- **Project Links:** [Github](https://github.com/alaa-abdelrahim/projects-controller).
 
 - **Project Work-type:** Individual work.
 
 - **Main Features:**
-    - You can specify the status of your task.
-    - You can add notes about what you should exactly do.
-    - you can edit your notes at any time.
-    - you can change the task status by drag it and drop it to another section.
+- Supports having multiple users.
+- Each user can specify:
+    - Multiple projects.
+    - Multiple tasks for each project.
+    - the status of each task.
+    - Description or notes about what you should exactly do for each task.
+    - you can edit your notes for each task any time.
+    - you can change the task status by drag it and drop it to another section (status).
     - you can even delete the task.
+    - you can delete the whole project.
+    - you can delete your account.
 
 
 
 ## Follow Me on Social Media
 
-[![GitHup](https://www.up-00.com/i/00185/nd3uttczqnh7.png)](https://github.com/alaa-abdelrahim) [![CodePen](https://www.up-00.com/i/00185/wnthau7kf2fl.png)](https://codepen.io/Alaa_S_AbdElrahim) [![Stack Overflow](https://www.up-00.com/i/00185/esualm4rbea7.png)](https://stackoverflow.com/users/12761468/alaa?tab=profile) [![LinkedIn](https://www.up-00.com/i/00185/takcp0g3x6vc.png)](https://www.linkedin.com/in/alaa-abd-elrahim/)
+[![GitHup](https://www.up-00.com/i/00185/nd3uttczqnh7.png)](https://github.com/alaa-abdelrahim) [![CodePen](https://www.up-00.com/i/00185/wnthau7kf2fl.png)](https://codepen.io/Alaa_S_AbdElrahim) [![LinkedIn](https://www.up-00.com/i/00185/takcp0g3x6vc.png)](https://www.linkedin.com/in/alaa-abd-elrahim/)
