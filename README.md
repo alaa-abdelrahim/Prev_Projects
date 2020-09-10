@@ -5,8 +5,11 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
   - **[Medica](#Medica):** E-commerce Web Application.
   - **[Penzhydromash](#Penzhydromash):** Company Portfolio (Home page full of animation).
   - **[Plants Care](#Plants-Care):**  One-page bilingual (Arabic and English) website.
-- Cross - Platforms Applications
+- Applications supporting `PWA`
+  - **[Weather App](#weather-app):** Online Web Application.
+- Desktop Applications
   - **[Projects Controller](#projects-controller):** Simple Offline Desktop Application using `Electron` framework.
+  - **[Weather App](#weather-app):** Online Desktop Application using `Electron` framework.
 
 ## <a name="Medica" target="_self">Medica</a>
 
@@ -106,8 +109,8 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
 - **Project Work-type:** Individual work.
 
 - **Main Features:**
-- Supports having multiple users.
-- Each user can specify:
+  - Supports having multiple users.
+  - Each user can specify:
     - Multiple projects.
     - Multiple tasks for each project.
     - the status of each task.
@@ -118,6 +121,35 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
     - you can delete the whole project.
     - you can delete your account.
 
+
+## <a name="weather-app" target="_self">Weather App</a>
+
+[![Image from the Weather App interface](https://e.top4top.io/p_1714jtvlt1.png)](https://github.com/alaa-abdelrahim/weather-app)
+
+- **Description:** Weather App aplication. Has a desktop version using `Electron` framework and a web version supporting `PWA` technology.
+
+- **Languages and Tools:** 
+  - **web Languages:** HTML5, CSS3, and JavaScript.
+  - **Framework:** Electron (in desktop version only).
+  - **Libraries:** Axios (in desktop version only).
+
+- **Project Links:** [Github](https://github.com/alaa-abdelrahim/weather-app) | [Live Demo](https://catch-weather.netlify.app/).
+
+- **Project Work-type:** Individual work.
+
+- **Main Features:**
+  - Users can see city weather as default, according to their `IP`.
+  - Users can search for any city all around the world.
+  - Users can see the weather of today and the next 5 days.
+  - User can see the date and location of the weather.
+  - Users can see according to the image for each type of weather.
+  - User can see the min and max degree each day.
+  - Users can see wind status and wind direction.
+  - Users can see the humidity percentages.
+  - User can see the visibility indicator.
+  - User can see the air pressure number.
+  - Users can request their current location weather. (In Web App Only).
+  - Users can convert temperature in Celcius to Fahrenheit and vice versa.
 
 
 ## Follow Me on Social Media
