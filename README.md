@@ -63,7 +63,7 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
 - **Project Work-type:** Individual work.
 
 - **Main Features:**
-- Height speed according to [Gtmetrix Report](https://gtmetrix.com/reports/penzhydromash.netlify.app/DjULQjEh)
+  - Height speed according to [Gtmetrix Report](https://gtmetrix.com/reports/penzhydromash.netlify.app/DjULQjEh)
   [![Height speed according to Gtmetrix Report](https://www.up-00.com/i/00192/x4r16jsslvnq.png)](https://gtmetrix.com/reports/penzhydromash.netlify.app/DjULQjEh)
   - Different user experience on small devices and desktop devices.
   - Mobile-First Design (and development).
