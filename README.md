@@ -2,6 +2,7 @@
 As a web developer, there are multi projects, apps, and tasks you need to develop daily. Here some of my previous projects in web development.
 
 - Front - End Web Applications
+  - **[SLABIKÁŘE od Inesky](#Slabikare):** Personal website for books' collector.
   - **[Medica](#Medica):** E-commerce Web Application.
   - **[Penzhydromash](#Penzhydromash):** Company Portfolio (Home page full of animation).
   - **[Plants Care](#Plants-Care):**  One-page bilingual (Arabic and English) website.
@@ -10,6 +11,49 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
 - Desktop Applications
   - **[Projects Controller](#projects-controller):** Simple Offline Desktop Application using `Electron` framework.
   - **[Weather App](#weather-app):** Online Desktop Application using `Electron` framework.
+
+## <a name="Slabikare" target="_self">SLABIKÁŘE od Inesky</a>
+
+[![Image from the website interface](https://c.top4top.io/p_1858lgd3k1.png)](https://slabikareodinesky.cz/)
+
+- **Description:** Multi-pages website for an early learning stages books collector from all around the world. In addition to a dashboard to customize all information and add/ edit/ remove books. Note: It's in Czech language.
+
+- **Design:** According to the perception of the client, bearing in mind that the target age group is over forty years old.
+
+- **Project Type:** Personal website.
+
+- **Languages and Tools:**
+  - **web Languages:** HTML5, CSS3, and JavaScript.
+  - **Back-End:** Firebase (Firestore, Storage, Authentication, Analysis, and Hosting).
+  - **Libraries:** Bootstrap 4, Jquery, Jquery vmap, and quill.
+
+- **Project Links:** [Website](https://slabikareodinesky.cz/).
+
+- **Project Work-type:** Individual work.
+
+- **Main Features:**
+  1. Main website
+    - 5 pages website, all of them read data from firebase.
+    - An Interactive map page, display all books' countries all around the world with the ability to go to a specific country's collection on click.
+    - The collection page read the data from firebase to display it in the webpage using "on scroll pagination" with the ability to filter by country, sort by name or date, and search for a specific book.
+    - Ability to add live comments and receive replies from the website owner on them.
+    - Full responsive and accessible.
+  2. Dashboard
+    - Ability to change all website info at any time.
+    - Ability to add, edit, and delete books.
+    - Ability to Filter books by country, sort books by name and date, search for a specific book.
+    - Ability to add and remove replies to comments.
+    - Ability to remove comments.
+    - Ability to filter and sort comments.
+  
+- **Screenshots:**
+
+![Main website pages](https://d.top4top.io/p_18588u5io2.png)
+
+![Dashboard](https://e.top4top.io/p_1858kntfu3.png)
+   
+   
+   
 
 ## <a name="Medica" target="_self">Medica</a>
 
