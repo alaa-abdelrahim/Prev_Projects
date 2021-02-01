@@ -8,9 +8,12 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
   - **[Plants Care](#Plants-Care):**  One-page bilingual (Arabic and English) website.
 - Applications supporting `PWA`
   - **[Weather App](#weather-app):** Online Web Application.
-- Desktop Applications
+- Desktop Applications `Electron`
   - **[Projects Controller](#projects-controller):** Simple Offline Desktop Application using `Electron` framework.
   - **[Weather App](#weather-app):** Online Desktop Application using `Electron` framework.
+- UI Development `Just UI` (click on the project name to see live demo)
+  - **[Interior Designer's works gallery](https://doobsite.netlify.app/):** Using Materialize CSS.
+
 
 ## <a name="Slabikare" target="_self">SLABIKÁŘE od Inesky</a>
 
