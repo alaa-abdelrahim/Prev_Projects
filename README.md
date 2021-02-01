@@ -1,9 +1,11 @@
 # My Projects
 As a web developer, there are multi projects, apps, and tasks you need to develop daily. Here some of my previous projects in web development.
 
+- Applications Using Frameworks
+  - **[Medica](#Medica):** `Angular` E-commerce Web Application.
+  - **[ToDo App](#todonuxt):** `Nuxtjs` Personal To-Do Application.
 - Front - End Web Applications
   - **[SLABIKÁŘE od Inesky](#Slabikare):** Personal website for books' collector.
-  - **[Medica](#Medica):** E-commerce Web Application.
   - **[Penzhydromash](#Penzhydromash):** Company Portfolio (Home page full of animation).
   - **[Plants Care](#Plants-Care):**  One-page bilingual (Arabic and English) website.
 - Applications supporting `PWA`
@@ -119,6 +121,7 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
 ## <a name="Plants-Care" target="_self">Plants Care</a>
 
 [![Image from the Plants Care website interface](https://www.up-00.com/i/00185/hj2xccxcum3m.jpg)](https://alaa-abdelrahim.github.io/plants_care/)
+
 - **Description:** One-page bilingual (Arabic and English) website.
 
 - **Project Type:** One-page website.
@@ -139,7 +142,41 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
   
   
    
-   
+ 
+## <a name="todonuxt" target="_self">ToDo App</a>
+
+[![Image from the todo app pages](https://d.top4top.io/p_18582128u1.png)](https://todoless.netlify.app/)
+
+- **Description:** Simple yet effective `Projects Controller` Application using `Nuxt` framework.
+
+- **Project Type:** Single Page Application.
+
+- **Frameworks, APIs, and Tools:** 
+  - Nuxtjs
+  - Vuejs
+  - Vuetify
+  - Vuex
+  - LocalStorage
+
+- **Project Links:** [Github Project](https://github.com/alaa-abdelrahim/todo_nuxt) | [Live Demo](https://todoless.netlify.app/).
+
+- **Project Work-type:** Individual work.
+
+- **Main Features:**
+  - The project starts with dummy data but  you can customize everything by yourself for your personal usage.
+  - Support multiple projects.
+  - You can add description for each project.
+  - You can edit project title or description.
+  - Support multiple tasks for each project.
+  - You can mark task as completed or redo it.
+  - You can add description for each task.
+  - You can edit task title or description.
+  - You can delete the completed tasks.
+  - You can delete any project.
+
+
+
+
 ## <a name="projects-controller" target="_self">Projects Controller</a>
 
 [![Image from the Project controller interface](https://alaa-abdelrahim.github.io/projects-controller/doc-images/tasks.png)](https://alaa-abdelrahim.github.io/projects-controller)
