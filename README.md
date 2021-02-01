@@ -92,8 +92,8 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
    
    
    
-   
- ## <a name="Penzhydromash" target="_self">Penzhydromash</a>
+  
+## <a name="Penzhydromash" target="_self">Penzhydromash</a>
 
 [![Image from the Penzhydromash website interface](https://www.up-00.com/i/00185/ixjxctupjjvf.png)](https://penzhydromash.netlify.app/)
 
@@ -116,7 +116,7 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
   - Mobile-First Design (and development).
   
   
- ## <a name="Plants-Care" target="_self">Plants Care</a>
+## <a name="Plants-Care" target="_self">Plants Care</a>
 
 [![Image from the Plants Care website interface](https://www.up-00.com/i/00185/hj2xccxcum3m.jpg)](https://alaa-abdelrahim.github.io/plants_care/)
 - **Description:** One-page bilingual (Arabic and English) website.
