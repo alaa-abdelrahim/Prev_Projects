@@ -202,4 +202,4 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
 
 ## Follow Me on Social Media
 
-[![GitHup](https://www.up-00.com/i/00185/nd3uttczqnh7.png)](https://github.com/alaa-abdelrahim) [![CodePen](https://www.up-00.com/i/00185/wnthau7kf2fl.png)](https://codepen.io/Alaa_S_AbdElrahim) [![LinkedIn](https://www.up-00.com/i/00185/takcp0g3x6vc.png)](https://www.linkedin.com/in/alaa-abd-elrahim/)
+  - [Github](https://github.com/alaa-abdelrahim) | [CodePen](https://codepen.io/Alaa_S_AbdElrahim) | [LinkedIn](https://www.linkedin.com/in/alaa-abd-elrahim/) | [Medium](https://medium.com/@a.abdelraheem)
