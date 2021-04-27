@@ -5,6 +5,7 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
   - **[Medica](#Medica):** `Angular` E-commerce Web Application.
   - **[ToDo App](#todonuxt):** `Nuxtjs` Personal To-Do Application.
 - Front - End Web Applications
+  - **[Record Qur'ne](#RecordQuran):**  Multi-pages Bilingual Website.
   - **[SLABIKÁŘE od Inesky](#Slabikare):** Personal website for books' collector.
   - **[Penzhydromash](#Penzhydromash):** Company Portfolio (Home page full of animation).
   - **[Plants Care](#Plants-Care):**  One-page bilingual (Arabic and English) website.
@@ -17,11 +18,37 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
   - **[Interior Designer's works gallery](https://doobsite.netlify.app/):** Using Materialize CSS.
 
 
+## <a name="RecordQuran" target="_self">Record Qur'ne</a>
+
+[![Image from the website interface](https://i.ibb.co/8KkKrgg/recordquranmockup1.png)](https://recordquran.org/)
+
+- **Description:** Multi-pages website that records your voice reciting the holy Quran to assist the research and development of Holy Quran-related applications. It's in Arabic and English.
+
+- **Role:** The job was to implement a design for an already running website. I worked within a team which includes developers, testers and designer.
+
+- **Project Type:** Non-profit/ Open-source website.
+
+- **Languages and Tools:**
+  - **web Languages:** HTML5, CSS3, and JavaScript (ES6).
+
+- **Project Links:** [Website](https://recordquran.org/) | [Contribution](https://gitlab.com/recordquran/recordquran.org/-/tree/master).
+
+- **Project Work-type:** Team-work. The team consisted of a Front-End Developer, a Back-End Developer, a Tester, and a Designer.
+
+- **Main Features:**
+  - 4 pages website in Arabic and English.
+  - Store personal data in local storage then use it to upload the records to the back-end.
+  - Very-well form validation before start. That's because personal data is very important in researchers.
+  - Fully responsive and accessible.
+
+
+
+
 ## <a name="Slabikare" target="_self">SLABIKÁŘE od Inesky</a>
 
 [![Image from the website interface](https://c.top4top.io/p_1858lgd3k1.png)](https://slabikareodinesky.cz/)
 
-- **Description:** Multi-pages website for an early learning stages books collector from all around the world. In addition to a dashboard to customize all information and add/ edit/ remove books. Note: It's in Czech language.
+- **Description:** Multi-pages website for an early learning stages books collector from all around the world. In addition to a dashboard to customize all information and add/ edit/ remove books. Note: It's in the Czech language.
 
 - **Design:** According to the perception of the client, bearing in mind that the target age group is over forty years old.
 
@@ -39,10 +66,10 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
 - **Main Features:**
   1. Main website
     - 5 pages website, all of them read data from firebase.
-    - An Interactive map page, display all books' countries all around the world with the ability to go to a specific country's collection on click.
+    - An Interactive map page, displays all books' countries all around the world with the ability to go to a specific country's collection on click.
     - The collection page read the data from firebase to display it in the webpage using "on scroll pagination" with the ability to filter by country, sort by name or date, and search for a specific book.
     - Ability to add live comments and receive replies from the website owner on them.
-    - Full responsive and accessible.
+    - Fully responsive and accessible.
   2. Dashboard
     - Ability to change all website info at any time.
     - Ability to add, edit, and delete books.
@@ -114,7 +141,7 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
 - **Main Features:**
   - Height speed according to [Gtmetrix Report](https://gtmetrix.com/reports/penzhydromash.netlify.app/DjULQjEh)
   [![Height speed according to Gtmetrix Report](https://www.up-00.com/i/00192/x4r16jsslvnq.png)](https://gtmetrix.com/reports/penzhydromash.netlify.app/DjULQjEh)
-  - Different user experience on small devices and desktop devices.
+  - Different user experiences on small devices and desktop devices.
   - Mobile-First Design (and development).
   
   
@@ -163,14 +190,14 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
 - **Project Work-type:** Individual work.
 
 - **Main Features:**
-  - The project starts with dummy data but  you can customize everything by yourself for your personal usage.
+  - The project starts with dummy data but you can customize everything by yourself for your personal usage.
   - Support multiple projects.
-  - You can add description for each project.
-  - You can edit project title or description.
+  - You can add a description for each project.
+  - You can edit the project title or description.
   - Support multiple tasks for each project.
-  - You can mark task as completed or redo it.
-  - You can add description for each task.
-  - You can edit task title or description.
+  - You can mark a task as completed or redo it.
+  - You can add a description for each task.
+  - You can edit the task title or description.
   - You can delete the completed tasks.
   - You can delete any project.
 
@@ -199,7 +226,7 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
     - Multiple tasks for each project.
     - the status of each task.
     - Description or notes about what you should exactly do for each task.
-    - you can edit your notes for each task any time.
+    - you can edit your notes for each task at any time.
     - you can change the task status by drag it and drop it to another section (status).
     - you can even delete the task.
     - you can delete the whole project.
@@ -210,7 +237,7 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
 
 [![Image from the Weather App interface](https://e.top4top.io/p_1714jtvlt1.png)](https://github.com/alaa-abdelrahim/weather-app)
 
-- **Description:** Weather App aplication. Has a desktop version using `Electron` framework and a web version supporting `PWA` technology.
+- **Description:** Weather App application. Has a desktop version using the `Electron` framework and a web version supporting `PWA` technology.
 
 - **Languages and Tools:** 
   - **web Languages:** HTML5, CSS3, and JavaScript.
@@ -224,11 +251,11 @@ As a web developer, there are multi projects, apps, and tasks you need to develo
 - **Main Features:**
   - Users can see city weather as default, according to their `IP`.
   - Users can search for many cities all around the world.
-  - Users will have suggestions for possiple cities to search on.
+  - Users will have suggestions for possible cities to search on.
   - Users can see the weather of today and the next 5 days.
   - User can see the date and location of the weather.
   - Users can see according to the image for each type of weather.
-  - User can see the min and max degree each day.
+  - User can see the min and max degrees each day.
   - Users can see wind status and wind direction.
   - Users can see the humidity percentages.
   - User can see the visibility indicator.
